@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                WebDyne-Chain
+version:             1.039
+abstract:            ~
+license:             ~
+author:              
+    - Andrew Speer <andrew.speer@isolutions.com.au>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    WebDyne:                       
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
