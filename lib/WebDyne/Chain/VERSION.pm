@@ -1,7 +1,7 @@
+
 #
-#
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
-#  reserved.
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>.
+#  All rights reserved.
 #
 #  This file is part of WebDyne::Chain.
 #
@@ -20,7 +20,5 @@
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 #
-#  $Id: VERSION.pm,v 1.039 2008/06/10 14:44:17 aspeer Exp $
-
 package WebDyne::Chain::VERSION;
-$VERSION=(qw$Revision: 1.039 $)[1];
+$VERSION='1.043';

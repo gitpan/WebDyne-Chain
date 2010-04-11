@@ -1,7 +1,7 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
-#  reserved.
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>.
+#  All rights reserved.
 #
 #  This file is part of WebDyne::Chain.
 #
@@ -19,8 +19,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
-#
-#  $Id: Chain.pm,v 1.31 2006/06/28 15:26:24 aspeer Exp $
 #
 package WebDyne::Chain;
 
@@ -45,7 +43,7 @@ use WebDyne::Base;
 #  Version information in a formate suitable for CPAN etc. Must be
 #  all on one line
 #
-$VERSION='1.002';
+$VERSION='1.003';
 
 
 #  Debug using WebDyne debug handler
@@ -482,7 +480,7 @@ current documentation in PDF format available in the WebDyne source /doc directo
 
 =head1 Copyright and License
 
-Webdyne::Chain is Copyright (C) Andrew Speer 2005-2010. WebDyne::Chain is dual licensed. It is released as free software
+Webdyne::Chain is Copyright (C) 2006-2010 Andrew Speer. WebDyne::Chain is dual licensed. It is released as free software
 released under the Gnu Public License (GPL), but is also available for commercial use under a proprietary license -
 please contact the author for further information.
 
