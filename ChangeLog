@@ -1,3 +1,11 @@
+commit a9ee5a13bb6c30070a14827df027fbc3de2e2d8e
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 21:22:20 2010 +0930
+
+    Tag: WebDyne-Chain_1.044
+    
+    Updated to YAML 1.4
+
 commit 7dd5838c590deaca068e112d21cb41ebefc0f93f
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 15:46:22 2010 +0930

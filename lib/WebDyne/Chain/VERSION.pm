@@ -21,4 +21,4 @@
 #
 #
 package WebDyne::Chain::VERSION;
-$VERSION='1.043';
+$VERSION='1.044';
