@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WebDyne-Chain
-version:            1.044
+version:            1.045
 abstract:           ~
 author:
     - Andrew Speer <andrew@webdyne.org>
