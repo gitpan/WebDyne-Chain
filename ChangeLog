@@ -1,3 +1,11 @@
+commit ed8e32847122a7c3af0d230f186940aa5fd8dbc6
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Wed Jul 13 17:19:05 2011 +0930
+
+    Tag: WebDyne-Chain_1.046
+    
+    Updated Makefile PREREQ section to be more compatible with older CPAN versions
+
 commit d2543943f9fffc0cbb4f45276ba6cb9d183f1b71
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Mon Apr 12 12:40:15 2010 +0930
