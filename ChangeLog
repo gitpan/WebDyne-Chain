@@ -1,3 +1,11 @@
+commit 01cff3c176b2316420160f99164a2ccb8259961c
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Fri Jul 15 17:33:54 2011 +0930
+
+    Tag: WebDyne-Chain_1.050
+    
+    Change to new versioning system, main module now holds dist version
+
 commit ed8e32847122a7c3af0d230f186940aa5fd8dbc6
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Wed Jul 13 17:19:05 2011 +0930

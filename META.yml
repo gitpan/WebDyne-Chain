@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               WebDyne-Chain
-version:            1.045
-abstract:           ~
+version:            1.050
+abstract:           WebDyne chaining module, allows extension of base WebDyne class
 author:
     - Andrew Speer <andrew@webdyne.org>
 license:            gpl
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    WebDyne:  ~
+    WebDyne:  0
 resources:
     homepage:  http://webdyne.org
     license:   http://www.gnu.org/licenses/gpl.html
@@ -19,7 +19,7 @@ no_index:
     directory:
         - t
         - inc
-generated_by:       ExtUtils::MakeMaker version 6.50
+generated_by:       ExtUtils::MakeMaker version 6.56
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4
